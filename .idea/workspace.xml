@@ -1,16 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a79dafa-32a4-46ff-b427-de8b3cfcf3dc" name="Default Changelist" comment="" />
+    <list default="true" id="8a79dafa-32a4-46ff-b427-de8b3cfcf3dc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="29YsCz4H51JsFmZ82EEhRLGW3if" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -18,6 +30,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -42,9 +55,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="625" y="343" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1653304712289">
+      <screen x="0" y="23" width="1792" height="1040" />
+    </state>
+    <state x="625" y="343" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1792.1040@0.23.1792.1040" timestamp="1653304712289" />
     <state x="397" y="182" key="SettingsEditor" timestamp="1653304613763">
       <screen x="0" y="23" width="1792" height="1040" />
     </state>
     <state x="397" y="182" key="SettingsEditor/0.23.1792.1040@0.23.1792.1040" timestamp="1653304613763" />
+    <state x="100" y="123" width="1592" height="840" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1653463860726">
+      <screen x="0" y="23" width="1792" height="1040" />
+    </state>
+    <state x="100" y="123" width="1592" height="840" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.23.1792.1040@0.23.1792.1040" timestamp="1653463860726" />
+    <state x="556" y="375" key="com.intellij.ide.util.TipDialog" timestamp="1653463566362">
+      <screen x="0" y="23" width="1792" height="1040" />
+    </state>
+    <state x="556" y="375" key="com.intellij.ide.util.TipDialog/0.23.1792.1040@0.23.1792.1040" timestamp="1653463566362" />
   </component>
 </project>

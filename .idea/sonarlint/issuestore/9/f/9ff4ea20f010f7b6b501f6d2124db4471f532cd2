@@ -1,0 +1,6 @@
+
+Mpython:S1481".Remove the unused local variable "list_audio".(‰¼Ô8áØ‹Ñ0
+}python:S117"ZRename this local variable "urlDetail" to match the regular expression ^[_a-z][a-z0-9_]*$.(­–²Ÿûÿÿÿÿ8½ÑÿĞ0
+zpython:S1542"[Rename function "getDetailRecipe365" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(ôæä‡8½ÑÿĞ0
+ipython:S1854"JRemove this assignment to local variable 'links'; the value is never used.(µÆ·š8ºÇ‹Ñ0
+Mpython:S1481")Remove the unused local variable "audio".(ƒ×®Âşÿÿÿÿ8ÈŠˆÑ0
